@@ -12,7 +12,7 @@ a {
 	position: absolute;
 	width: 289px;
 	height: 129px;
-	background: #000 url(../images/frame.jpg);
+	background: #000 url(../images/frame.png);
 	top: 100px;
 	left: 250px;
 	overflow: hidden;
@@ -23,7 +23,7 @@ a {
 	left: 0;
 	width: 289px;
 	height: 129px;
-	background: #000 url(../images/splash.jpg);
+	background: #000 url(../images/splash.png);
 }
 
 #slotSplash a {
